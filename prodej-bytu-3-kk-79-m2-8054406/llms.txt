@@ -1,0 +1,22 @@
+# Prodej bytu, 3+kk, 79 m²
+
+> Představujeme vám nový developerský projekt Byty Litovel Severní s prvky rezidenčního bydlení a netradiční architekturou zapadající do rozvíjející se čtvrti v severní části města Litovle. Bytový dům o pěti podlažích a čtyřech obytných patrech je vybavený výtahem a nabízí celkem 57 bytů a 3 ateliéry v rozmanité skladbě dispozic od 1+kk po 4+kk, z nichž většina disponuje vlastní terasou, lodžií nebo
+
+## Fakta
+- Typ: Byty
+- Druh nabídky: Prodej
+- Dispozice: 3+kk
+- Plocha: 79 m²
+- Podlaží: 3
+- Stav: ve výstavbě (hrubá stavba)
+- Vlastnictví: osobní
+- Energetická náročnost: B
+- Lokalita: Severní, Litovel, Olomoucký kraj
+- Cena: 5 857 272 Kč
+
+## Kontakt
+- Makléř: Mgr. Zdeněk Vaněčka
+- Telefon: +420603177711
+- E-mail: zdenek@metr2reality.cz
+- Kancelář: metr2 reality s.r.o.
+- Web kanceláře: http://www.metr2reality.cz
